@@ -32,7 +32,7 @@ Project File Directory Map: PLEASE READ!!!
 
 - 3_Test Cases and Results=
                         CONTAINS:
-				 BSIT201NIS_MAWANAY_KJ_DCSN04C - VIDEO TEST (DUE TO 25MB LIMIT: ACCESS VIA GOOGLE LINK)
+				 BSIT201NIS_MAWANAY_KJ_DCSN04C - VIDEO TEST (DUE TO 25MB LIMIT: ACCESS VIA GOOGLE DRIVE LINK)
 
 - README.txt=
                         CONTAINS:
@@ -66,3 +66,4 @@ BSIT-NIS201
 
 
 ===================================NOTHING FOLLOWS============================================
+
