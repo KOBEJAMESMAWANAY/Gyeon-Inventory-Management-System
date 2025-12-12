@@ -32,7 +32,7 @@ Project File Directory Map: PLEASE READ!!!
 
 - 3_Test Cases and Results=
                         CONTAINS:
-				 BSIT201NIS_MAWANAY_KJ_DCSN04C - VIDEO TEST
+				 BSIT201NIS_MAWANAY_KJ_DCSN04C - VIDEO TEST (DUE TO 25MB LIMIT: ACCESS VIA GOOGLE LINK)
 
 - README.txt=
                         CONTAINS:
@@ -63,5 +63,6 @@ Other Notes:
 
 MAWANAY, KOBE JAMES R.
 BSIT-NIS201
+
 
 ===================================NOTHING FOLLOWS============================================
